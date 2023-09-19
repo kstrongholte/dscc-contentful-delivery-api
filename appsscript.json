@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "libraries": []
+  },
+  "dataStudio": {
+    "name": "Contentful Delivery API",
+    "logoUrl": "https://cdn-assets-us.frontify.com/s3/frontify-enterprise-files-us/eyJwYXRoIjoiY29udGVudGZ1bFwvYWNjb3VudHNcLzMxXC80MDAwODgzXC9wcm9qZWN0c1wvMzBcL2Fzc2V0c1wvOWZcLzI3MzdcLzE2MmQ5N2NmZDM3ODY0ZTgzZGU4ODY0OGM2YTE3NTM0LTE2MjY4NTgyMzUucG5nIn0:contentful:96pOVSQAQtnuZSpg0-6jEb_gTqf5rh8ohCLmZ2chbec?width=2400",
+    "company": "kstrongholte",
+    "companyUrl": "https://github.com/kstrongholte/dscc-contentful-delivery-api",
+    "addonUrl": "https://github.com/kstrongholte/dscc-contentful-delivery-api",
+    "supportUrl": "https://github.com/kstrongholte/dscc-contentful-delivery-api",
+    "description": "Connect to the Contentful Delivery API.",
+    "sources": [],
+    "templates": {
+      "default": ""
+    }
+  },
+  "oauthScopes": []
+}
